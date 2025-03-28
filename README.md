@@ -11,3 +11,5 @@ Now I have added previously learnt LGBM model as well.
 Also learning feature importance to improve the decision making.
 
 started learning data monitoring using Evidently library
+
+Also added some EDA with Boston Housing dataset
